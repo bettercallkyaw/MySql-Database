@@ -1,0 +1,6 @@
+(1)Basic SQL
+(2)OneToMany
+(3)ManyToMany
+(4)Instgram Database
+(5)SQL working with Nodejs
+(6)SQL working with Express
